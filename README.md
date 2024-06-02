@@ -7,7 +7,7 @@
 DEMO Udacity
 
 ### Description
-Describe what your project is about and what it does
+Demo
 
 ### Files used
 test.csv
