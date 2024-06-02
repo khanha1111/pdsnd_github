@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 
 #Creating a dictionary containing the data sources for the three cities
+#Data city
 CITY_DATA = { 'chicago': 'data/chicago.csv', 'Chicago': 'data/chicago.csv',
              'New York City': 'data/new_york_city.csv', 'New york city': 'data/new_york_city.csv',
               'new york city': 'data/new_york_city.csv', 'washington': 'data/washington.csv',
